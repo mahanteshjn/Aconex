@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31288" started-at="2018-12-10T07:42:26Z" finished-at="2018-12-10T07:42:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31288" started-at="2018-12-10T07:42:26Z" finished-at="2018-12-10T07:42:58Z">
+      <class name="tests.ScenarioTwo">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:tests.ScenarioTwo@cc285f4]" name="initialize" is-config="true" duration-ms="4551" started-at="2018-12-10T07:42:26Z" finished-at="2018-12-10T07:42:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="workflowCount()[pri:0, instance:tests.ScenarioTwo@cc285f4]" name="workflowCount" duration-ms="24405" started-at="2018-12-10T07:42:31Z" finished-at="2018-12-10T07:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- workflowCount -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.ScenarioTwo@cc285f4]" name="teardown" is-config="true" duration-ms="2301" started-at="2018-12-10T07:42:55Z" finished-at="2018-12-10T07:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.ScenarioTwo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
