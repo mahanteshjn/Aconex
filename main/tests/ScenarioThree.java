@@ -54,7 +54,7 @@ public class ScenarioThree extends base{
 		
 		driver.switchTo().frame("frameMain");
 		
-		System.out.println("User is in email section");
+		System.out.println("User is in the email section");
 		Assert.assertTrue(em.getsendButton().isDisplayed()); //Verify presence of send button
 		
 		System.out.println("Email send button displayed");
